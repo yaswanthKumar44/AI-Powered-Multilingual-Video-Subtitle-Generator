@@ -1,10 +1,5 @@
 **AI-Powered Multilingual Video Subtitle Generator**
 
----
-
-## 📄 README.md (you can save this as `README.md` in your repo)
-
-````markdown
 # 🎥 AI-Powered Multilingual Video Subtitle Generator
 
 This mini-project is an AI-driven video subtitle generation tool that uses OpenAI's Whisper model to perform speech recognition and translation from any language to English, generating `.srt` subtitle files and embedding them directly into videos using FFmpeg.
